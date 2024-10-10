@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\eje\calculadora\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\eje\calculadora\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\eje\calculadora\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\PC\source\repos\eje\calculadora\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
