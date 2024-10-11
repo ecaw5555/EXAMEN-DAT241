@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.Properties.Resources.resources
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\bin\Debug\bordes.exe.config
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\bin\Debug\bordes.exe
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\bin\Debug\bordes.pdb
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.Form1.resources
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.exe
+C:\Users\PC\source\repos\ejercicio9\bordes\bordes\obj\Debug\bordes.pdb
